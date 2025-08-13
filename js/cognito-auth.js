@@ -73,15 +73,15 @@ var WildRydes = window.WildRydes || {};
       Value: email,
     };
     var dataNickName = {
-      Name: "nickName",
+      Name: "nickname",
       Value: nickName,
     };
     var dataGivenName = {
-      Name: "name.givenName",
+      Name: "given_name",
       Value: givenName,
     };
     var dataFamilyName = {
-      Name: "name.familyName",
+      Name: "family_name",
       Value: familyName,
     };
     var dataBirthdate = {
